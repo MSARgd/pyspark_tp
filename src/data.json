@@ -1,0 +1,2996 @@
+[
+    {
+        "client_id": 1,
+        "ville": "Casablanca",
+        "revenue": 46514,
+        "apartments": 1
+    },
+    {
+        "client_id": 2,
+        "ville": "Marrakech",
+        "revenue": 16791,
+        "apartments": 2
+    },
+    {
+        "client_id": 3,
+        "ville": "Casablanca",
+        "revenue": 28055,
+        "apartments": 1
+    },
+    {
+        "client_id": 4,
+        "ville": "Casablanca",
+        "revenue": 25708,
+        "apartments": 2
+    },
+    {
+        "client_id": 5,
+        "ville": "Casablanca",
+        "revenue": 13376,
+        "apartments": 1
+    },
+    {
+        "client_id": 6,
+        "ville": "Casablanca",
+        "revenue": 13585,
+        "apartments": 3
+    },
+    {
+        "client_id": 7,
+        "ville": "Marrakech",
+        "revenue": 41810,
+        "apartments": 3
+    },
+    {
+        "client_id": 8,
+        "ville": "Casablanca",
+        "revenue": 20351,
+        "apartments": 2
+    },
+    {
+        "client_id": 9,
+        "ville": "Casablanca",
+        "revenue": 48165,
+        "apartments": 2
+    },
+    {
+        "client_id": 10,
+        "ville": "Marrakech",
+        "revenue": 47507,
+        "apartments": 2
+    },
+    {
+        "client_id": 11,
+        "ville": "Marrakech",
+        "revenue": 35412,
+        "apartments": 1
+    },
+    {
+        "client_id": 12,
+        "ville": "Rabat",
+        "revenue": 23959,
+        "apartments": 1
+    },
+    {
+        "client_id": 13,
+        "ville": "Rabat",
+        "revenue": 39648,
+        "apartments": 2
+    },
+    {
+        "client_id": 14,
+        "ville": "Casablanca",
+        "revenue": 29776,
+        "apartments": 3
+    },
+    {
+        "client_id": 15,
+        "ville": "Marrakech",
+        "revenue": 47804,
+        "apartments": 1
+    },
+    {
+        "client_id": 16,
+        "ville": "Casablanca",
+        "revenue": 22856,
+        "apartments": 3
+    },
+    {
+        "client_id": 17,
+        "ville": "Marrakech",
+        "revenue": 43345,
+        "apartments": 2
+    },
+    {
+        "client_id": 18,
+        "ville": "Rabat",
+        "revenue": 12368,
+        "apartments": 2
+    },
+    {
+        "client_id": 19,
+        "ville": "Rabat",
+        "revenue": 17962,
+        "apartments": 2
+    },
+    {
+        "client_id": 20,
+        "ville": "Casablanca",
+        "revenue": 15993,
+        "apartments": 1
+    },
+    {
+        "client_id": 21,
+        "ville": "Marrakech",
+        "revenue": 14695,
+        "apartments": 1
+    },
+    {
+        "client_id": 22,
+        "ville": "Marrakech",
+        "revenue": 29068,
+        "apartments": 1
+    },
+    {
+        "client_id": 23,
+        "ville": "Rabat",
+        "revenue": 16600,
+        "apartments": 2
+    },
+    {
+        "client_id": 24,
+        "ville": "Casablanca",
+        "revenue": 15547,
+        "apartments": 2
+    },
+    {
+        "client_id": 25,
+        "ville": "Marrakech",
+        "revenue": 24710,
+        "apartments": 2
+    },
+    {
+        "client_id": 26,
+        "ville": "Rabat",
+        "revenue": 48056,
+        "apartments": 1
+    },
+    {
+        "client_id": 27,
+        "ville": "Rabat",
+        "revenue": 17387,
+        "apartments": 3
+    },
+    {
+        "client_id": 28,
+        "ville": "Marrakech",
+        "revenue": 21350,
+        "apartments": 1
+    },
+    {
+        "client_id": 29,
+        "ville": "Marrakech",
+        "revenue": 25613,
+        "apartments": 1
+    },
+    {
+        "client_id": 30,
+        "ville": "Casablanca",
+        "revenue": 18837,
+        "apartments": 2
+    },
+    {
+        "client_id": 31,
+        "ville": "Marrakech",
+        "revenue": 35687,
+        "apartments": 3
+    },
+    {
+        "client_id": 32,
+        "ville": "Rabat",
+        "revenue": 44852,
+        "apartments": 3
+    },
+    {
+        "client_id": 33,
+        "ville": "Rabat",
+        "revenue": 44094,
+        "apartments": 2
+    },
+    {
+        "client_id": 34,
+        "ville": "Rabat",
+        "revenue": 45138,
+        "apartments": 1
+    },
+    {
+        "client_id": 35,
+        "ville": "Marrakech",
+        "revenue": 48005,
+        "apartments": 1
+    },
+    {
+        "client_id": 36,
+        "ville": "Casablanca",
+        "revenue": 36967,
+        "apartments": 3
+    },
+    {
+        "client_id": 37,
+        "ville": "Rabat",
+        "revenue": 14278,
+        "apartments": 1
+    },
+    {
+        "client_id": 38,
+        "ville": "Marrakech",
+        "revenue": 41119,
+        "apartments": 2
+    },
+    {
+        "client_id": 39,
+        "ville": "Rabat",
+        "revenue": 29717,
+        "apartments": 2
+    },
+    {
+        "client_id": 40,
+        "ville": "Marrakech",
+        "revenue": 18845,
+        "apartments": 2
+    },
+    {
+        "client_id": 41,
+        "ville": "Rabat",
+        "revenue": 35130,
+        "apartments": 2
+    },
+    {
+        "client_id": 42,
+        "ville": "Rabat",
+        "revenue": 33741,
+        "apartments": 2
+    },
+    {
+        "client_id": 43,
+        "ville": "Casablanca",
+        "revenue": 22522,
+        "apartments": 3
+    },
+    {
+        "client_id": 44,
+        "ville": "Rabat",
+        "revenue": 40673,
+        "apartments": 3
+    },
+    {
+        "client_id": 45,
+        "ville": "Rabat",
+        "revenue": 25932,
+        "apartments": 1
+    },
+    {
+        "client_id": 46,
+        "ville": "Marrakech",
+        "revenue": 41445,
+        "apartments": 1
+    },
+    {
+        "client_id": 47,
+        "ville": "Marrakech",
+        "revenue": 13461,
+        "apartments": 2
+    },
+    {
+        "client_id": 48,
+        "ville": "Marrakech",
+        "revenue": 29053,
+        "apartments": 2
+    },
+    {
+        "client_id": 49,
+        "ville": "Marrakech",
+        "revenue": 34077,
+        "apartments": 3
+    },
+    {
+        "client_id": 50,
+        "ville": "Rabat",
+        "revenue": 13633,
+        "apartments": 1
+    },
+    {
+        "client_id": 51,
+        "ville": "Marrakech",
+        "revenue": 44295,
+        "apartments": 3
+    },
+    {
+        "client_id": 52,
+        "ville": "Marrakech",
+        "revenue": 46643,
+        "apartments": 2
+    },
+    {
+        "client_id": 53,
+        "ville": "Marrakech",
+        "revenue": 12074,
+        "apartments": 1
+    },
+    {
+        "client_id": 54,
+        "ville": "Marrakech",
+        "revenue": 10567,
+        "apartments": 1
+    },
+    {
+        "client_id": 55,
+        "ville": "Rabat",
+        "revenue": 33377,
+        "apartments": 1
+    },
+    {
+        "client_id": 56,
+        "ville": "Rabat",
+        "revenue": 17836,
+        "apartments": 1
+    },
+    {
+        "client_id": 57,
+        "ville": "Marrakech",
+        "revenue": 12958,
+        "apartments": 2
+    },
+    {
+        "client_id": 58,
+        "ville": "Marrakech",
+        "revenue": 38651,
+        "apartments": 2
+    },
+    {
+        "client_id": 59,
+        "ville": "Rabat",
+        "revenue": 47515,
+        "apartments": 1
+    },
+    {
+        "client_id": 60,
+        "ville": "Casablanca",
+        "revenue": 32842,
+        "apartments": 2
+    },
+    {
+        "client_id": 61,
+        "ville": "Rabat",
+        "revenue": 17758,
+        "apartments": 2
+    },
+    {
+        "client_id": 62,
+        "ville": "Marrakech",
+        "revenue": 39352,
+        "apartments": 2
+    },
+    {
+        "client_id": 63,
+        "ville": "Casablanca",
+        "revenue": 19254,
+        "apartments": 3
+    },
+    {
+        "client_id": 64,
+        "ville": "Rabat",
+        "revenue": 40310,
+        "apartments": 3
+    },
+    {
+        "client_id": 65,
+        "ville": "Marrakech",
+        "revenue": 18384,
+        "apartments": 2
+    },
+    {
+        "client_id": 66,
+        "ville": "Marrakech",
+        "revenue": 25624,
+        "apartments": 3
+    },
+    {
+        "client_id": 67,
+        "ville": "Rabat",
+        "revenue": 32832,
+        "apartments": 2
+    },
+    {
+        "client_id": 68,
+        "ville": "Rabat",
+        "revenue": 48451,
+        "apartments": 2
+    },
+    {
+        "client_id": 69,
+        "ville": "Rabat",
+        "revenue": 48644,
+        "apartments": 1
+    },
+    {
+        "client_id": 70,
+        "ville": "Marrakech",
+        "revenue": 29892,
+        "apartments": 2
+    },
+    {
+        "client_id": 71,
+        "ville": "Casablanca",
+        "revenue": 42150,
+        "apartments": 2
+    },
+    {
+        "client_id": 72,
+        "ville": "Rabat",
+        "revenue": 40531,
+        "apartments": 1
+    },
+    {
+        "client_id": 73,
+        "ville": "Marrakech",
+        "revenue": 14505,
+        "apartments": 1
+    },
+    {
+        "client_id": 74,
+        "ville": "Casablanca",
+        "revenue": 44754,
+        "apartments": 2
+    },
+    {
+        "client_id": 75,
+        "ville": "Marrakech",
+        "revenue": 32800,
+        "apartments": 2
+    },
+    {
+        "client_id": 76,
+        "ville": "Rabat",
+        "revenue": 33164,
+        "apartments": 1
+    },
+    {
+        "client_id": 77,
+        "ville": "Casablanca",
+        "revenue": 14934,
+        "apartments": 2
+    },
+    {
+        "client_id": 78,
+        "ville": "Rabat",
+        "revenue": 22151,
+        "apartments": 3
+    },
+    {
+        "client_id": 79,
+        "ville": "Casablanca",
+        "revenue": 14736,
+        "apartments": 1
+    },
+    {
+        "client_id": 80,
+        "ville": "Marrakech",
+        "revenue": 39862,
+        "apartments": 1
+    },
+    {
+        "client_id": 81,
+        "ville": "Marrakech",
+        "revenue": 15838,
+        "apartments": 3
+    },
+    {
+        "client_id": 82,
+        "ville": "Marrakech",
+        "revenue": 16998,
+        "apartments": 2
+    },
+    {
+        "client_id": 83,
+        "ville": "Rabat",
+        "revenue": 36947,
+        "apartments": 1
+    },
+    {
+        "client_id": 84,
+        "ville": "Casablanca",
+        "revenue": 13314,
+        "apartments": 3
+    },
+    {
+        "client_id": 85,
+        "ville": "Marrakech",
+        "revenue": 14903,
+        "apartments": 3
+    },
+    {
+        "client_id": 86,
+        "ville": "Casablanca",
+        "revenue": 26572,
+        "apartments": 3
+    },
+    {
+        "client_id": 87,
+        "ville": "Marrakech",
+        "revenue": 31797,
+        "apartments": 1
+    },
+    {
+        "client_id": 88,
+        "ville": "Rabat",
+        "revenue": 21658,
+        "apartments": 1
+    },
+    {
+        "client_id": 89,
+        "ville": "Marrakech",
+        "revenue": 38935,
+        "apartments": 3
+    },
+    {
+        "client_id": 90,
+        "ville": "Casablanca",
+        "revenue": 23899,
+        "apartments": 3
+    },
+    {
+        "client_id": 91,
+        "ville": "Rabat",
+        "revenue": 21837,
+        "apartments": 1
+    },
+    {
+        "client_id": 92,
+        "ville": "Casablanca",
+        "revenue": 31724,
+        "apartments": 1
+    },
+    {
+        "client_id": 93,
+        "ville": "Casablanca",
+        "revenue": 18361,
+        "apartments": 3
+    },
+    {
+        "client_id": 94,
+        "ville": "Casablanca",
+        "revenue": 26696,
+        "apartments": 1
+    },
+    {
+        "client_id": 95,
+        "ville": "Rabat",
+        "revenue": 11429,
+        "apartments": 1
+    },
+    {
+        "client_id": 96,
+        "ville": "Casablanca",
+        "revenue": 14819,
+        "apartments": 1
+    },
+    {
+        "client_id": 97,
+        "ville": "Marrakech",
+        "revenue": 31853,
+        "apartments": 3
+    },
+    {
+        "client_id": 98,
+        "ville": "Rabat",
+        "revenue": 16341,
+        "apartments": 1
+    },
+    {
+        "client_id": 99,
+        "ville": "Rabat",
+        "revenue": 10511,
+        "apartments": 1
+    },
+    {
+        "client_id": 100,
+        "ville": "Casablanca",
+        "revenue": 19243,
+        "apartments": 2
+    },
+    {
+        "client_id": 101,
+        "ville": "Rabat",
+        "revenue": 37529,
+        "apartments": 3
+    },
+    {
+        "client_id": 102,
+        "ville": "Rabat",
+        "revenue": 29286,
+        "apartments": 2
+    },
+    {
+        "client_id": 103,
+        "ville": "Casablanca",
+        "revenue": 49621,
+        "apartments": 3
+    },
+    {
+        "client_id": 104,
+        "ville": "Marrakech",
+        "revenue": 24431,
+        "apartments": 3
+    },
+    {
+        "client_id": 105,
+        "ville": "Rabat",
+        "revenue": 44363,
+        "apartments": 2
+    },
+    {
+        "client_id": 106,
+        "ville": "Rabat",
+        "revenue": 12405,
+        "apartments": 2
+    },
+    {
+        "client_id": 107,
+        "ville": "Rabat",
+        "revenue": 17703,
+        "apartments": 1
+    },
+    {
+        "client_id": 108,
+        "ville": "Rabat",
+        "revenue": 42701,
+        "apartments": 1
+    },
+    {
+        "client_id": 109,
+        "ville": "Rabat",
+        "revenue": 13152,
+        "apartments": 1
+    },
+    {
+        "client_id": 110,
+        "ville": "Rabat",
+        "revenue": 30188,
+        "apartments": 2
+    },
+    {
+        "client_id": 111,
+        "ville": "Marrakech",
+        "revenue": 43336,
+        "apartments": 2
+    },
+    {
+        "client_id": 112,
+        "ville": "Casablanca",
+        "revenue": 43215,
+        "apartments": 1
+    },
+    {
+        "client_id": 113,
+        "ville": "Casablanca",
+        "revenue": 18408,
+        "apartments": 1
+    },
+    {
+        "client_id": 114,
+        "ville": "Casablanca",
+        "revenue": 16325,
+        "apartments": 1
+    },
+    {
+        "client_id": 115,
+        "ville": "Marrakech",
+        "revenue": 16837,
+        "apartments": 3
+    },
+    {
+        "client_id": 116,
+        "ville": "Rabat",
+        "revenue": 48610,
+        "apartments": 2
+    },
+    {
+        "client_id": 117,
+        "ville": "Rabat",
+        "revenue": 13682,
+        "apartments": 3
+    },
+    {
+        "client_id": 118,
+        "ville": "Rabat",
+        "revenue": 12818,
+        "apartments": 3
+    },
+    {
+        "client_id": 119,
+        "ville": "Marrakech",
+        "revenue": 40666,
+        "apartments": 1
+    },
+    {
+        "client_id": 120,
+        "ville": "Casablanca",
+        "revenue": 15734,
+        "apartments": 2
+    },
+    {
+        "client_id": 121,
+        "ville": "Casablanca",
+        "revenue": 38871,
+        "apartments": 2
+    },
+    {
+        "client_id": 122,
+        "ville": "Rabat",
+        "revenue": 14303,
+        "apartments": 2
+    },
+    {
+        "client_id": 123,
+        "ville": "Marrakech",
+        "revenue": 35838,
+        "apartments": 2
+    },
+    {
+        "client_id": 124,
+        "ville": "Marrakech",
+        "revenue": 43835,
+        "apartments": 3
+    },
+    {
+        "client_id": 125,
+        "ville": "Casablanca",
+        "revenue": 37308,
+        "apartments": 3
+    },
+    {
+        "client_id": 126,
+        "ville": "Rabat",
+        "revenue": 22478,
+        "apartments": 2
+    },
+    {
+        "client_id": 127,
+        "ville": "Rabat",
+        "revenue": 42000,
+        "apartments": 3
+    },
+    {
+        "client_id": 128,
+        "ville": "Rabat",
+        "revenue": 46293,
+        "apartments": 2
+    },
+    {
+        "client_id": 129,
+        "ville": "Marrakech",
+        "revenue": 34451,
+        "apartments": 2
+    },
+    {
+        "client_id": 130,
+        "ville": "Marrakech",
+        "revenue": 19559,
+        "apartments": 3
+    },
+    {
+        "client_id": 131,
+        "ville": "Marrakech",
+        "revenue": 14856,
+        "apartments": 3
+    },
+    {
+        "client_id": 132,
+        "ville": "Rabat",
+        "revenue": 39381,
+        "apartments": 3
+    },
+    {
+        "client_id": 133,
+        "ville": "Casablanca",
+        "revenue": 47104,
+        "apartments": 1
+    },
+    {
+        "client_id": 134,
+        "ville": "Marrakech",
+        "revenue": 37528,
+        "apartments": 1
+    },
+    {
+        "client_id": 135,
+        "ville": "Rabat",
+        "revenue": 42250,
+        "apartments": 2
+    },
+    {
+        "client_id": 136,
+        "ville": "Rabat",
+        "revenue": 36194,
+        "apartments": 2
+    },
+    {
+        "client_id": 137,
+        "ville": "Casablanca",
+        "revenue": 38230,
+        "apartments": 2
+    },
+    {
+        "client_id": 138,
+        "ville": "Marrakech",
+        "revenue": 37882,
+        "apartments": 3
+    },
+    {
+        "client_id": 139,
+        "ville": "Casablanca",
+        "revenue": 43283,
+        "apartments": 2
+    },
+    {
+        "client_id": 140,
+        "ville": "Marrakech",
+        "revenue": 10019,
+        "apartments": 3
+    },
+    {
+        "client_id": 141,
+        "ville": "Marrakech",
+        "revenue": 31664,
+        "apartments": 2
+    },
+    {
+        "client_id": 142,
+        "ville": "Rabat",
+        "revenue": 14247,
+        "apartments": 3
+    },
+    {
+        "client_id": 143,
+        "ville": "Rabat",
+        "revenue": 29228,
+        "apartments": 2
+    },
+    {
+        "client_id": 144,
+        "ville": "Casablanca",
+        "revenue": 39118,
+        "apartments": 3
+    },
+    {
+        "client_id": 145,
+        "ville": "Rabat",
+        "revenue": 13306,
+        "apartments": 2
+    },
+    {
+        "client_id": 146,
+        "ville": "Rabat",
+        "revenue": 36495,
+        "apartments": 1
+    },
+    {
+        "client_id": 147,
+        "ville": "Marrakech",
+        "revenue": 22863,
+        "apartments": 3
+    },
+    {
+        "client_id": 148,
+        "ville": "Marrakech",
+        "revenue": 25939,
+        "apartments": 3
+    },
+    {
+        "client_id": 149,
+        "ville": "Rabat",
+        "revenue": 30643,
+        "apartments": 2
+    },
+    {
+        "client_id": 150,
+        "ville": "Casablanca",
+        "revenue": 28941,
+        "apartments": 2
+    },
+    {
+        "client_id": 151,
+        "ville": "Casablanca",
+        "revenue": 23944,
+        "apartments": 1
+    },
+    {
+        "client_id": 152,
+        "ville": "Rabat",
+        "revenue": 47528,
+        "apartments": 3
+    },
+    {
+        "client_id": 153,
+        "ville": "Rabat",
+        "revenue": 39476,
+        "apartments": 3
+    },
+    {
+        "client_id": 154,
+        "ville": "Marrakech",
+        "revenue": 29172,
+        "apartments": 1
+    },
+    {
+        "client_id": 155,
+        "ville": "Rabat",
+        "revenue": 13288,
+        "apartments": 1
+    },
+    {
+        "client_id": 156,
+        "ville": "Marrakech",
+        "revenue": 17262,
+        "apartments": 2
+    },
+    {
+        "client_id": 157,
+        "ville": "Rabat",
+        "revenue": 24560,
+        "apartments": 3
+    },
+    {
+        "client_id": 158,
+        "ville": "Casablanca",
+        "revenue": 27878,
+        "apartments": 2
+    },
+    {
+        "client_id": 159,
+        "ville": "Rabat",
+        "revenue": 48616,
+        "apartments": 3
+    },
+    {
+        "client_id": 160,
+        "ville": "Casablanca",
+        "revenue": 23187,
+        "apartments": 2
+    },
+    {
+        "client_id": 161,
+        "ville": "Marrakech",
+        "revenue": 23971,
+        "apartments": 2
+    },
+    {
+        "client_id": 162,
+        "ville": "Marrakech",
+        "revenue": 11472,
+        "apartments": 2
+    },
+    {
+        "client_id": 163,
+        "ville": "Marrakech",
+        "revenue": 31422,
+        "apartments": 3
+    },
+    {
+        "client_id": 164,
+        "ville": "Rabat",
+        "revenue": 32474,
+        "apartments": 1
+    },
+    {
+        "client_id": 165,
+        "ville": "Casablanca",
+        "revenue": 15291,
+        "apartments": 2
+    },
+    {
+        "client_id": 166,
+        "ville": "Rabat",
+        "revenue": 33877,
+        "apartments": 2
+    },
+    {
+        "client_id": 167,
+        "ville": "Casablanca",
+        "revenue": 48482,
+        "apartments": 2
+    },
+    {
+        "client_id": 168,
+        "ville": "Rabat",
+        "revenue": 42607,
+        "apartments": 2
+    },
+    {
+        "client_id": 169,
+        "ville": "Rabat",
+        "revenue": 14804,
+        "apartments": 3
+    },
+    {
+        "client_id": 170,
+        "ville": "Rabat",
+        "revenue": 46901,
+        "apartments": 3
+    },
+    {
+        "client_id": 171,
+        "ville": "Casablanca",
+        "revenue": 46211,
+        "apartments": 1
+    },
+    {
+        "client_id": 172,
+        "ville": "Marrakech",
+        "revenue": 13881,
+        "apartments": 2
+    },
+    {
+        "client_id": 173,
+        "ville": "Rabat",
+        "revenue": 31464,
+        "apartments": 2
+    },
+    {
+        "client_id": 174,
+        "ville": "Rabat",
+        "revenue": 27794,
+        "apartments": 1
+    },
+    {
+        "client_id": 175,
+        "ville": "Marrakech",
+        "revenue": 19081,
+        "apartments": 1
+    },
+    {
+        "client_id": 176,
+        "ville": "Casablanca",
+        "revenue": 16948,
+        "apartments": 1
+    },
+    {
+        "client_id": 177,
+        "ville": "Marrakech",
+        "revenue": 15423,
+        "apartments": 2
+    },
+    {
+        "client_id": 178,
+        "ville": "Casablanca",
+        "revenue": 47467,
+        "apartments": 1
+    },
+    {
+        "client_id": 179,
+        "ville": "Marrakech",
+        "revenue": 18165,
+        "apartments": 1
+    },
+    {
+        "client_id": 180,
+        "ville": "Casablanca",
+        "revenue": 14414,
+        "apartments": 2
+    },
+    {
+        "client_id": 181,
+        "ville": "Rabat",
+        "revenue": 24393,
+        "apartments": 1
+    },
+    {
+        "client_id": 182,
+        "ville": "Marrakech",
+        "revenue": 16968,
+        "apartments": 3
+    },
+    {
+        "client_id": 183,
+        "ville": "Casablanca",
+        "revenue": 18376,
+        "apartments": 3
+    },
+    {
+        "client_id": 184,
+        "ville": "Rabat",
+        "revenue": 38115,
+        "apartments": 1
+    },
+    {
+        "client_id": 185,
+        "ville": "Casablanca",
+        "revenue": 21339,
+        "apartments": 3
+    },
+    {
+        "client_id": 186,
+        "ville": "Rabat",
+        "revenue": 28133,
+        "apartments": 3
+    },
+    {
+        "client_id": 187,
+        "ville": "Casablanca",
+        "revenue": 30679,
+        "apartments": 2
+    },
+    {
+        "client_id": 188,
+        "ville": "Rabat",
+        "revenue": 24140,
+        "apartments": 1
+    },
+    {
+        "client_id": 189,
+        "ville": "Rabat",
+        "revenue": 36780,
+        "apartments": 1
+    },
+    {
+        "client_id": 190,
+        "ville": "Marrakech",
+        "revenue": 26768,
+        "apartments": 2
+    },
+    {
+        "client_id": 191,
+        "ville": "Marrakech",
+        "revenue": 28459,
+        "apartments": 2
+    },
+    {
+        "client_id": 192,
+        "ville": "Rabat",
+        "revenue": 45930,
+        "apartments": 3
+    },
+    {
+        "client_id": 193,
+        "ville": "Marrakech",
+        "revenue": 31464,
+        "apartments": 2
+    },
+    {
+        "client_id": 194,
+        "ville": "Marrakech",
+        "revenue": 28603,
+        "apartments": 2
+    },
+    {
+        "client_id": 195,
+        "ville": "Casablanca",
+        "revenue": 11464,
+        "apartments": 1
+    },
+    {
+        "client_id": 196,
+        "ville": "Rabat",
+        "revenue": 31013,
+        "apartments": 3
+    },
+    {
+        "client_id": 197,
+        "ville": "Marrakech",
+        "revenue": 33246,
+        "apartments": 1
+    },
+    {
+        "client_id": 198,
+        "ville": "Marrakech",
+        "revenue": 40085,
+        "apartments": 1
+    },
+    {
+        "client_id": 199,
+        "ville": "Marrakech",
+        "revenue": 42484,
+        "apartments": 3
+    },
+    {
+        "client_id": 200,
+        "ville": "Rabat",
+        "revenue": 28568,
+        "apartments": 2
+    },
+    {
+        "client_id": 201,
+        "ville": "Marrakech",
+        "revenue": 13705,
+        "apartments": 1
+    },
+    {
+        "client_id": 202,
+        "ville": "Rabat",
+        "revenue": 10016,
+        "apartments": 3
+    },
+    {
+        "client_id": 203,
+        "ville": "Rabat",
+        "revenue": 31301,
+        "apartments": 1
+    },
+    {
+        "client_id": 204,
+        "ville": "Rabat",
+        "revenue": 30237,
+        "apartments": 1
+    },
+    {
+        "client_id": 205,
+        "ville": "Marrakech",
+        "revenue": 26603,
+        "apartments": 1
+    },
+    {
+        "client_id": 206,
+        "ville": "Marrakech",
+        "revenue": 33957,
+        "apartments": 3
+    },
+    {
+        "client_id": 207,
+        "ville": "Casablanca",
+        "revenue": 43078,
+        "apartments": 2
+    },
+    {
+        "client_id": 208,
+        "ville": "Rabat",
+        "revenue": 43108,
+        "apartments": 2
+    },
+    {
+        "client_id": 209,
+        "ville": "Marrakech",
+        "revenue": 32186,
+        "apartments": 2
+    },
+    {
+        "client_id": 210,
+        "ville": "Rabat",
+        "revenue": 43263,
+        "apartments": 1
+    },
+    {
+        "client_id": 211,
+        "ville": "Rabat",
+        "revenue": 36646,
+        "apartments": 3
+    },
+    {
+        "client_id": 212,
+        "ville": "Casablanca",
+        "revenue": 21436,
+        "apartments": 2
+    },
+    {
+        "client_id": 213,
+        "ville": "Marrakech",
+        "revenue": 33830,
+        "apartments": 3
+    },
+    {
+        "client_id": 214,
+        "ville": "Marrakech",
+        "revenue": 16637,
+        "apartments": 3
+    },
+    {
+        "client_id": 215,
+        "ville": "Casablanca",
+        "revenue": 31430,
+        "apartments": 1
+    },
+    {
+        "client_id": 216,
+        "ville": "Casablanca",
+        "revenue": 11853,
+        "apartments": 2
+    },
+    {
+        "client_id": 217,
+        "ville": "Casablanca",
+        "revenue": 28253,
+        "apartments": 3
+    },
+    {
+        "client_id": 218,
+        "ville": "Casablanca",
+        "revenue": 46329,
+        "apartments": 1
+    },
+    {
+        "client_id": 219,
+        "ville": "Casablanca",
+        "revenue": 23826,
+        "apartments": 2
+    },
+    {
+        "client_id": 220,
+        "ville": "Marrakech",
+        "revenue": 19880,
+        "apartments": 3
+    },
+    {
+        "client_id": 221,
+        "ville": "Casablanca",
+        "revenue": 17538,
+        "apartments": 2
+    },
+    {
+        "client_id": 222,
+        "ville": "Marrakech",
+        "revenue": 18983,
+        "apartments": 2
+    },
+    {
+        "client_id": 223,
+        "ville": "Rabat",
+        "revenue": 11275,
+        "apartments": 3
+    },
+    {
+        "client_id": 224,
+        "ville": "Rabat",
+        "revenue": 17809,
+        "apartments": 3
+    },
+    {
+        "client_id": 225,
+        "ville": "Marrakech",
+        "revenue": 18919,
+        "apartments": 2
+    },
+    {
+        "client_id": 226,
+        "ville": "Casablanca",
+        "revenue": 20687,
+        "apartments": 1
+    },
+    {
+        "client_id": 227,
+        "ville": "Marrakech",
+        "revenue": 21185,
+        "apartments": 1
+    },
+    {
+        "client_id": 228,
+        "ville": "Rabat",
+        "revenue": 34352,
+        "apartments": 3
+    },
+    {
+        "client_id": 229,
+        "ville": "Marrakech",
+        "revenue": 13024,
+        "apartments": 1
+    },
+    {
+        "client_id": 230,
+        "ville": "Marrakech",
+        "revenue": 39983,
+        "apartments": 3
+    },
+    {
+        "client_id": 231,
+        "ville": "Marrakech",
+        "revenue": 22872,
+        "apartments": 2
+    },
+    {
+        "client_id": 232,
+        "ville": "Rabat",
+        "revenue": 24743,
+        "apartments": 3
+    },
+    {
+        "client_id": 233,
+        "ville": "Casablanca",
+        "revenue": 49288,
+        "apartments": 1
+    },
+    {
+        "client_id": 234,
+        "ville": "Marrakech",
+        "revenue": 22077,
+        "apartments": 1
+    },
+    {
+        "client_id": 235,
+        "ville": "Marrakech",
+        "revenue": 11790,
+        "apartments": 1
+    },
+    {
+        "client_id": 236,
+        "ville": "Rabat",
+        "revenue": 25827,
+        "apartments": 1
+    },
+    {
+        "client_id": 237,
+        "ville": "Rabat",
+        "revenue": 25009,
+        "apartments": 3
+    },
+    {
+        "client_id": 238,
+        "ville": "Casablanca",
+        "revenue": 41727,
+        "apartments": 1
+    },
+    {
+        "client_id": 239,
+        "ville": "Rabat",
+        "revenue": 17055,
+        "apartments": 1
+    },
+    {
+        "client_id": 240,
+        "ville": "Marrakech",
+        "revenue": 20831,
+        "apartments": 1
+    },
+    {
+        "client_id": 241,
+        "ville": "Marrakech",
+        "revenue": 36208,
+        "apartments": 3
+    },
+    {
+        "client_id": 242,
+        "ville": "Rabat",
+        "revenue": 16889,
+        "apartments": 3
+    },
+    {
+        "client_id": 243,
+        "ville": "Rabat",
+        "revenue": 41234,
+        "apartments": 2
+    },
+    {
+        "client_id": 244,
+        "ville": "Marrakech",
+        "revenue": 34345,
+        "apartments": 2
+    },
+    {
+        "client_id": 245,
+        "ville": "Marrakech",
+        "revenue": 14139,
+        "apartments": 3
+    },
+    {
+        "client_id": 246,
+        "ville": "Casablanca",
+        "revenue": 19941,
+        "apartments": 3
+    },
+    {
+        "client_id": 247,
+        "ville": "Casablanca",
+        "revenue": 23167,
+        "apartments": 1
+    },
+    {
+        "client_id": 248,
+        "ville": "Marrakech",
+        "revenue": 28645,
+        "apartments": 2
+    },
+    {
+        "client_id": 249,
+        "ville": "Rabat",
+        "revenue": 31497,
+        "apartments": 2
+    },
+    {
+        "client_id": 250,
+        "ville": "Casablanca",
+        "revenue": 41385,
+        "apartments": 3
+    },
+    {
+        "client_id": 251,
+        "ville": "Marrakech",
+        "revenue": 36270,
+        "apartments": 2
+    },
+    {
+        "client_id": 252,
+        "ville": "Marrakech",
+        "revenue": 21079,
+        "apartments": 1
+    },
+    {
+        "client_id": 253,
+        "ville": "Marrakech",
+        "revenue": 33754,
+        "apartments": 2
+    },
+    {
+        "client_id": 254,
+        "ville": "Marrakech",
+        "revenue": 31810,
+        "apartments": 2
+    },
+    {
+        "client_id": 255,
+        "ville": "Marrakech",
+        "revenue": 42652,
+        "apartments": 2
+    },
+    {
+        "client_id": 256,
+        "ville": "Rabat",
+        "revenue": 13910,
+        "apartments": 1
+    },
+    {
+        "client_id": 257,
+        "ville": "Marrakech",
+        "revenue": 34831,
+        "apartments": 3
+    },
+    {
+        "client_id": 258,
+        "ville": "Marrakech",
+        "revenue": 15073,
+        "apartments": 3
+    },
+    {
+        "client_id": 259,
+        "ville": "Marrakech",
+        "revenue": 40508,
+        "apartments": 3
+    },
+    {
+        "client_id": 260,
+        "ville": "Marrakech",
+        "revenue": 44282,
+        "apartments": 2
+    },
+    {
+        "client_id": 261,
+        "ville": "Marrakech",
+        "revenue": 12511,
+        "apartments": 2
+    },
+    {
+        "client_id": 262,
+        "ville": "Rabat",
+        "revenue": 48881,
+        "apartments": 1
+    },
+    {
+        "client_id": 263,
+        "ville": "Rabat",
+        "revenue": 15770,
+        "apartments": 1
+    },
+    {
+        "client_id": 264,
+        "ville": "Casablanca",
+        "revenue": 31006,
+        "apartments": 1
+    },
+    {
+        "client_id": 265,
+        "ville": "Casablanca",
+        "revenue": 12221,
+        "apartments": 2
+    },
+    {
+        "client_id": 266,
+        "ville": "Marrakech",
+        "revenue": 15294,
+        "apartments": 2
+    },
+    {
+        "client_id": 267,
+        "ville": "Casablanca",
+        "revenue": 43316,
+        "apartments": 1
+    },
+    {
+        "client_id": 268,
+        "ville": "Marrakech",
+        "revenue": 21381,
+        "apartments": 3
+    },
+    {
+        "client_id": 269,
+        "ville": "Casablanca",
+        "revenue": 28383,
+        "apartments": 3
+    },
+    {
+        "client_id": 270,
+        "ville": "Marrakech",
+        "revenue": 31898,
+        "apartments": 3
+    },
+    {
+        "client_id": 271,
+        "ville": "Marrakech",
+        "revenue": 19510,
+        "apartments": 3
+    },
+    {
+        "client_id": 272,
+        "ville": "Rabat",
+        "revenue": 46794,
+        "apartments": 3
+    },
+    {
+        "client_id": 273,
+        "ville": "Casablanca",
+        "revenue": 14818,
+        "apartments": 2
+    },
+    {
+        "client_id": 274,
+        "ville": "Casablanca",
+        "revenue": 34295,
+        "apartments": 3
+    },
+    {
+        "client_id": 275,
+        "ville": "Marrakech",
+        "revenue": 10704,
+        "apartments": 1
+    },
+    {
+        "client_id": 276,
+        "ville": "Marrakech",
+        "revenue": 46929,
+        "apartments": 2
+    },
+    {
+        "client_id": 277,
+        "ville": "Marrakech",
+        "revenue": 39022,
+        "apartments": 2
+    },
+    {
+        "client_id": 278,
+        "ville": "Casablanca",
+        "revenue": 29639,
+        "apartments": 3
+    },
+    {
+        "client_id": 279,
+        "ville": "Rabat",
+        "revenue": 12514,
+        "apartments": 3
+    },
+    {
+        "client_id": 280,
+        "ville": "Rabat",
+        "revenue": 34281,
+        "apartments": 1
+    },
+    {
+        "client_id": 281,
+        "ville": "Marrakech",
+        "revenue": 21881,
+        "apartments": 1
+    },
+    {
+        "client_id": 282,
+        "ville": "Marrakech",
+        "revenue": 39699,
+        "apartments": 1
+    },
+    {
+        "client_id": 283,
+        "ville": "Rabat",
+        "revenue": 17929,
+        "apartments": 3
+    },
+    {
+        "client_id": 284,
+        "ville": "Marrakech",
+        "revenue": 37536,
+        "apartments": 1
+    },
+    {
+        "client_id": 285,
+        "ville": "Marrakech",
+        "revenue": 24613,
+        "apartments": 2
+    },
+    {
+        "client_id": 286,
+        "ville": "Casablanca",
+        "revenue": 10597,
+        "apartments": 1
+    },
+    {
+        "client_id": 287,
+        "ville": "Rabat",
+        "revenue": 43918,
+        "apartments": 3
+    },
+    {
+        "client_id": 288,
+        "ville": "Casablanca",
+        "revenue": 20743,
+        "apartments": 3
+    },
+    {
+        "client_id": 289,
+        "ville": "Rabat",
+        "revenue": 39849,
+        "apartments": 1
+    },
+    {
+        "client_id": 290,
+        "ville": "Rabat",
+        "revenue": 29102,
+        "apartments": 1
+    },
+    {
+        "client_id": 291,
+        "ville": "Rabat",
+        "revenue": 46458,
+        "apartments": 3
+    },
+    {
+        "client_id": 292,
+        "ville": "Casablanca",
+        "revenue": 15036,
+        "apartments": 2
+    },
+    {
+        "client_id": 293,
+        "ville": "Marrakech",
+        "revenue": 14006,
+        "apartments": 2
+    },
+    {
+        "client_id": 294,
+        "ville": "Marrakech",
+        "revenue": 45173,
+        "apartments": 2
+    },
+    {
+        "client_id": 295,
+        "ville": "Rabat",
+        "revenue": 41953,
+        "apartments": 3
+    },
+    {
+        "client_id": 296,
+        "ville": "Marrakech",
+        "revenue": 48992,
+        "apartments": 2
+    },
+    {
+        "client_id": 297,
+        "ville": "Casablanca",
+        "revenue": 13223,
+        "apartments": 1
+    },
+    {
+        "client_id": 298,
+        "ville": "Rabat",
+        "revenue": 42529,
+        "apartments": 1
+    },
+    {
+        "client_id": 299,
+        "ville": "Rabat",
+        "revenue": 17840,
+        "apartments": 2
+    },
+    {
+        "client_id": 300,
+        "ville": "Marrakech",
+        "revenue": 12077,
+        "apartments": 3
+    },
+    {
+        "client_id": 301,
+        "ville": "Casablanca",
+        "revenue": 23808,
+        "apartments": 1
+    },
+    {
+        "client_id": 302,
+        "ville": "Rabat",
+        "revenue": 26663,
+        "apartments": 3
+    },
+    {
+        "client_id": 303,
+        "ville": "Casablanca",
+        "revenue": 42462,
+        "apartments": 1
+    },
+    {
+        "client_id": 304,
+        "ville": "Marrakech",
+        "revenue": 13211,
+        "apartments": 2
+    },
+    {
+        "client_id": 305,
+        "ville": "Marrakech",
+        "revenue": 11457,
+        "apartments": 3
+    },
+    {
+        "client_id": 306,
+        "ville": "Casablanca",
+        "revenue": 32641,
+        "apartments": 1
+    },
+    {
+        "client_id": 307,
+        "ville": "Rabat",
+        "revenue": 14323,
+        "apartments": 2
+    },
+    {
+        "client_id": 308,
+        "ville": "Marrakech",
+        "revenue": 24978,
+        "apartments": 1
+    },
+    {
+        "client_id": 309,
+        "ville": "Marrakech",
+        "revenue": 44179,
+        "apartments": 3
+    },
+    {
+        "client_id": 310,
+        "ville": "Marrakech",
+        "revenue": 26500,
+        "apartments": 3
+    },
+    {
+        "client_id": 311,
+        "ville": "Marrakech",
+        "revenue": 23529,
+        "apartments": 1
+    },
+    {
+        "client_id": 312,
+        "ville": "Marrakech",
+        "revenue": 34816,
+        "apartments": 2
+    },
+    {
+        "client_id": 313,
+        "ville": "Marrakech",
+        "revenue": 17804,
+        "apartments": 3
+    },
+    {
+        "client_id": 314,
+        "ville": "Casablanca",
+        "revenue": 37790,
+        "apartments": 3
+    },
+    {
+        "client_id": 315,
+        "ville": "Marrakech",
+        "revenue": 26264,
+        "apartments": 2
+    },
+    {
+        "client_id": 316,
+        "ville": "Casablanca",
+        "revenue": 47051,
+        "apartments": 2
+    },
+    {
+        "client_id": 317,
+        "ville": "Marrakech",
+        "revenue": 15661,
+        "apartments": 3
+    },
+    {
+        "client_id": 318,
+        "ville": "Casablanca",
+        "revenue": 12440,
+        "apartments": 1
+    },
+    {
+        "client_id": 319,
+        "ville": "Marrakech",
+        "revenue": 35070,
+        "apartments": 3
+    },
+    {
+        "client_id": 320,
+        "ville": "Marrakech",
+        "revenue": 43180,
+        "apartments": 3
+    },
+    {
+        "client_id": 321,
+        "ville": "Marrakech",
+        "revenue": 10984,
+        "apartments": 1
+    },
+    {
+        "client_id": 322,
+        "ville": "Casablanca",
+        "revenue": 35215,
+        "apartments": 2
+    },
+    {
+        "client_id": 323,
+        "ville": "Marrakech",
+        "revenue": 15576,
+        "apartments": 1
+    },
+    {
+        "client_id": 324,
+        "ville": "Casablanca",
+        "revenue": 14861,
+        "apartments": 3
+    },
+    {
+        "client_id": 325,
+        "ville": "Marrakech",
+        "revenue": 34371,
+        "apartments": 3
+    },
+    {
+        "client_id": 326,
+        "ville": "Casablanca",
+        "revenue": 25073,
+        "apartments": 2
+    },
+    {
+        "client_id": 327,
+        "ville": "Casablanca",
+        "revenue": 47992,
+        "apartments": 1
+    },
+    {
+        "client_id": 328,
+        "ville": "Marrakech",
+        "revenue": 11984,
+        "apartments": 1
+    },
+    {
+        "client_id": 329,
+        "ville": "Casablanca",
+        "revenue": 18726,
+        "apartments": 1
+    },
+    {
+        "client_id": 330,
+        "ville": "Marrakech",
+        "revenue": 14510,
+        "apartments": 2
+    },
+    {
+        "client_id": 331,
+        "ville": "Casablanca",
+        "revenue": 29425,
+        "apartments": 3
+    },
+    {
+        "client_id": 332,
+        "ville": "Casablanca",
+        "revenue": 15042,
+        "apartments": 2
+    },
+    {
+        "client_id": 333,
+        "ville": "Casablanca",
+        "revenue": 32637,
+        "apartments": 3
+    },
+    {
+        "client_id": 334,
+        "ville": "Marrakech",
+        "revenue": 24074,
+        "apartments": 1
+    },
+    {
+        "client_id": 335,
+        "ville": "Marrakech",
+        "revenue": 19794,
+        "apartments": 2
+    },
+    {
+        "client_id": 336,
+        "ville": "Casablanca",
+        "revenue": 10252,
+        "apartments": 3
+    },
+    {
+        "client_id": 337,
+        "ville": "Casablanca",
+        "revenue": 31289,
+        "apartments": 1
+    },
+    {
+        "client_id": 338,
+        "ville": "Marrakech",
+        "revenue": 24166,
+        "apartments": 1
+    },
+    {
+        "client_id": 339,
+        "ville": "Rabat",
+        "revenue": 20757,
+        "apartments": 2
+    },
+    {
+        "client_id": 340,
+        "ville": "Marrakech",
+        "revenue": 48751,
+        "apartments": 2
+    },
+    {
+        "client_id": 341,
+        "ville": "Rabat",
+        "revenue": 26638,
+        "apartments": 1
+    },
+    {
+        "client_id": 342,
+        "ville": "Marrakech",
+        "revenue": 19194,
+        "apartments": 3
+    },
+    {
+        "client_id": 343,
+        "ville": "Marrakech",
+        "revenue": 49688,
+        "apartments": 2
+    },
+    {
+        "client_id": 344,
+        "ville": "Marrakech",
+        "revenue": 39883,
+        "apartments": 1
+    },
+    {
+        "client_id": 345,
+        "ville": "Rabat",
+        "revenue": 23887,
+        "apartments": 3
+    },
+    {
+        "client_id": 346,
+        "ville": "Rabat",
+        "revenue": 37419,
+        "apartments": 2
+    },
+    {
+        "client_id": 347,
+        "ville": "Rabat",
+        "revenue": 15457,
+        "apartments": 3
+    },
+    {
+        "client_id": 348,
+        "ville": "Casablanca",
+        "revenue": 17780,
+        "apartments": 3
+    },
+    {
+        "client_id": 349,
+        "ville": "Marrakech",
+        "revenue": 33122,
+        "apartments": 1
+    },
+    {
+        "client_id": 350,
+        "ville": "Rabat",
+        "revenue": 33460,
+        "apartments": 1
+    },
+    {
+        "client_id": 351,
+        "ville": "Rabat",
+        "revenue": 47696,
+        "apartments": 2
+    },
+    {
+        "client_id": 352,
+        "ville": "Casablanca",
+        "revenue": 16135,
+        "apartments": 1
+    },
+    {
+        "client_id": 353,
+        "ville": "Rabat",
+        "revenue": 33516,
+        "apartments": 2
+    },
+    {
+        "client_id": 354,
+        "ville": "Marrakech",
+        "revenue": 25326,
+        "apartments": 2
+    },
+    {
+        "client_id": 355,
+        "ville": "Casablanca",
+        "revenue": 34459,
+        "apartments": 2
+    },
+    {
+        "client_id": 356,
+        "ville": "Marrakech",
+        "revenue": 13645,
+        "apartments": 3
+    },
+    {
+        "client_id": 357,
+        "ville": "Marrakech",
+        "revenue": 12871,
+        "apartments": 3
+    },
+    {
+        "client_id": 358,
+        "ville": "Rabat",
+        "revenue": 23381,
+        "apartments": 2
+    },
+    {
+        "client_id": 359,
+        "ville": "Marrakech",
+        "revenue": 39551,
+        "apartments": 2
+    },
+    {
+        "client_id": 360,
+        "ville": "Casablanca",
+        "revenue": 46127,
+        "apartments": 3
+    },
+    {
+        "client_id": 361,
+        "ville": "Marrakech",
+        "revenue": 26773,
+        "apartments": 2
+    },
+    {
+        "client_id": 362,
+        "ville": "Rabat",
+        "revenue": 31684,
+        "apartments": 3
+    },
+    {
+        "client_id": 363,
+        "ville": "Marrakech",
+        "revenue": 17141,
+        "apartments": 2
+    },
+    {
+        "client_id": 364,
+        "ville": "Marrakech",
+        "revenue": 48590,
+        "apartments": 2
+    },
+    {
+        "client_id": 365,
+        "ville": "Casablanca",
+        "revenue": 40349,
+        "apartments": 1
+    },
+    {
+        "client_id": 366,
+        "ville": "Casablanca",
+        "revenue": 21707,
+        "apartments": 1
+    },
+    {
+        "client_id": 367,
+        "ville": "Casablanca",
+        "revenue": 40323,
+        "apartments": 1
+    },
+    {
+        "client_id": 368,
+        "ville": "Marrakech",
+        "revenue": 16342,
+        "apartments": 3
+    },
+    {
+        "client_id": 369,
+        "ville": "Marrakech",
+        "revenue": 21418,
+        "apartments": 3
+    },
+    {
+        "client_id": 370,
+        "ville": "Marrakech",
+        "revenue": 11082,
+        "apartments": 2
+    },
+    {
+        "client_id": 371,
+        "ville": "Casablanca",
+        "revenue": 34414,
+        "apartments": 2
+    },
+    {
+        "client_id": 372,
+        "ville": "Rabat",
+        "revenue": 34982,
+        "apartments": 2
+    },
+    {
+        "client_id": 373,
+        "ville": "Marrakech",
+        "revenue": 16783,
+        "apartments": 2
+    },
+    {
+        "client_id": 374,
+        "ville": "Casablanca",
+        "revenue": 49460,
+        "apartments": 2
+    },
+    {
+        "client_id": 375,
+        "ville": "Rabat",
+        "revenue": 43499,
+        "apartments": 3
+    },
+    {
+        "client_id": 376,
+        "ville": "Marrakech",
+        "revenue": 17758,
+        "apartments": 2
+    },
+    {
+        "client_id": 377,
+        "ville": "Rabat",
+        "revenue": 40057,
+        "apartments": 3
+    },
+    {
+        "client_id": 378,
+        "ville": "Marrakech",
+        "revenue": 44955,
+        "apartments": 1
+    },
+    {
+        "client_id": 379,
+        "ville": "Rabat",
+        "revenue": 46029,
+        "apartments": 1
+    },
+    {
+        "client_id": 380,
+        "ville": "Casablanca",
+        "revenue": 42893,
+        "apartments": 1
+    },
+    {
+        "client_id": 381,
+        "ville": "Rabat",
+        "revenue": 45268,
+        "apartments": 2
+    },
+    {
+        "client_id": 382,
+        "ville": "Casablanca",
+        "revenue": 35900,
+        "apartments": 1
+    },
+    {
+        "client_id": 383,
+        "ville": "Casablanca",
+        "revenue": 49184,
+        "apartments": 2
+    },
+    {
+        "client_id": 384,
+        "ville": "Rabat",
+        "revenue": 43384,
+        "apartments": 3
+    },
+    {
+        "client_id": 385,
+        "ville": "Casablanca",
+        "revenue": 34800,
+        "apartments": 3
+    },
+    {
+        "client_id": 386,
+        "ville": "Rabat",
+        "revenue": 23502,
+        "apartments": 3
+    },
+    {
+        "client_id": 387,
+        "ville": "Casablanca",
+        "revenue": 18433,
+        "apartments": 2
+    },
+    {
+        "client_id": 388,
+        "ville": "Rabat",
+        "revenue": 21746,
+        "apartments": 2
+    },
+    {
+        "client_id": 389,
+        "ville": "Rabat",
+        "revenue": 28931,
+        "apartments": 3
+    },
+    {
+        "client_id": 390,
+        "ville": "Casablanca",
+        "revenue": 46681,
+        "apartments": 2
+    },
+    {
+        "client_id": 391,
+        "ville": "Casablanca",
+        "revenue": 45922,
+        "apartments": 2
+    },
+    {
+        "client_id": 392,
+        "ville": "Casablanca",
+        "revenue": 16944,
+        "apartments": 3
+    },
+    {
+        "client_id": 393,
+        "ville": "Casablanca",
+        "revenue": 24080,
+        "apartments": 2
+    },
+    {
+        "client_id": 394,
+        "ville": "Rabat",
+        "revenue": 39931,
+        "apartments": 1
+    },
+    {
+        "client_id": 395,
+        "ville": "Marrakech",
+        "revenue": 19782,
+        "apartments": 3
+    },
+    {
+        "client_id": 396,
+        "ville": "Marrakech",
+        "revenue": 11665,
+        "apartments": 3
+    },
+    {
+        "client_id": 397,
+        "ville": "Rabat",
+        "revenue": 15916,
+        "apartments": 2
+    },
+    {
+        "client_id": 398,
+        "ville": "Marrakech",
+        "revenue": 33790,
+        "apartments": 2
+    },
+    {
+        "client_id": 399,
+        "ville": "Casablanca",
+        "revenue": 16658,
+        "apartments": 1
+    },
+    {
+        "client_id": 400,
+        "ville": "Casablanca",
+        "revenue": 17041,
+        "apartments": 2
+    },
+    {
+        "client_id": 401,
+        "ville": "Marrakech",
+        "revenue": 28789,
+        "apartments": 1
+    },
+    {
+        "client_id": 402,
+        "ville": "Marrakech",
+        "revenue": 40117,
+        "apartments": 3
+    },
+    {
+        "client_id": 403,
+        "ville": "Marrakech",
+        "revenue": 37867,
+        "apartments": 2
+    },
+    {
+        "client_id": 404,
+        "ville": "Rabat",
+        "revenue": 22694,
+        "apartments": 2
+    },
+    {
+        "client_id": 405,
+        "ville": "Casablanca",
+        "revenue": 37247,
+        "apartments": 1
+    },
+    {
+        "client_id": 406,
+        "ville": "Rabat",
+        "revenue": 17844,
+        "apartments": 2
+    },
+    {
+        "client_id": 407,
+        "ville": "Marrakech",
+        "revenue": 29119,
+        "apartments": 1
+    },
+    {
+        "client_id": 408,
+        "ville": "Rabat",
+        "revenue": 32700,
+        "apartments": 1
+    },
+    {
+        "client_id": 409,
+        "ville": "Marrakech",
+        "revenue": 46113,
+        "apartments": 3
+    },
+    {
+        "client_id": 410,
+        "ville": "Marrakech",
+        "revenue": 10918,
+        "apartments": 1
+    },
+    {
+        "client_id": 411,
+        "ville": "Rabat",
+        "revenue": 11288,
+        "apartments": 1
+    },
+    {
+        "client_id": 412,
+        "ville": "Marrakech",
+        "revenue": 21427,
+        "apartments": 2
+    },
+    {
+        "client_id": 413,
+        "ville": "Marrakech",
+        "revenue": 40204,
+        "apartments": 2
+    },
+    {
+        "client_id": 414,
+        "ville": "Marrakech",
+        "revenue": 32689,
+        "apartments": 1
+    },
+    {
+        "client_id": 415,
+        "ville": "Casablanca",
+        "revenue": 16225,
+        "apartments": 1
+    },
+    {
+        "client_id": 416,
+        "ville": "Marrakech",
+        "revenue": 14043,
+        "apartments": 1
+    },
+    {
+        "client_id": 417,
+        "ville": "Casablanca",
+        "revenue": 40472,
+        "apartments": 2
+    },
+    {
+        "client_id": 418,
+        "ville": "Casablanca",
+        "revenue": 44112,
+        "apartments": 1
+    },
+    {
+        "client_id": 419,
+        "ville": "Rabat",
+        "revenue": 19748,
+        "apartments": 2
+    },
+    {
+        "client_id": 420,
+        "ville": "Marrakech",
+        "revenue": 48178,
+        "apartments": 1
+    },
+    {
+        "client_id": 421,
+        "ville": "Marrakech",
+        "revenue": 44349,
+        "apartments": 2
+    },
+    {
+        "client_id": 422,
+        "ville": "Casablanca",
+        "revenue": 44430,
+        "apartments": 3
+    },
+    {
+        "client_id": 423,
+        "ville": "Casablanca",
+        "revenue": 19116,
+        "apartments": 2
+    },
+    {
+        "client_id": 424,
+        "ville": "Casablanca",
+        "revenue": 49480,
+        "apartments": 3
+    },
+    {
+        "client_id": 425,
+        "ville": "Marrakech",
+        "revenue": 40476,
+        "apartments": 2
+    },
+    {
+        "client_id": 426,
+        "ville": "Marrakech",
+        "revenue": 47419,
+        "apartments": 1
+    },
+    {
+        "client_id": 427,
+        "ville": "Casablanca",
+        "revenue": 49236,
+        "apartments": 1
+    },
+    {
+        "client_id": 428,
+        "ville": "Rabat",
+        "revenue": 22117,
+        "apartments": 3
+    },
+    {
+        "client_id": 429,
+        "ville": "Casablanca",
+        "revenue": 22593,
+        "apartments": 2
+    },
+    {
+        "client_id": 430,
+        "ville": "Casablanca",
+        "revenue": 15591,
+        "apartments": 2
+    },
+    {
+        "client_id": 431,
+        "ville": "Casablanca",
+        "revenue": 37514,
+        "apartments": 2
+    },
+    {
+        "client_id": 432,
+        "ville": "Marrakech",
+        "revenue": 19896,
+        "apartments": 1
+    },
+    {
+        "client_id": 433,
+        "ville": "Casablanca",
+        "revenue": 44648,
+        "apartments": 2
+    },
+    {
+        "client_id": 434,
+        "ville": "Casablanca",
+        "revenue": 40742,
+        "apartments": 3
+    },
+    {
+        "client_id": 435,
+        "ville": "Casablanca",
+        "revenue": 11353,
+        "apartments": 3
+    },
+    {
+        "client_id": 436,
+        "ville": "Marrakech",
+        "revenue": 13101,
+        "apartments": 1
+    },
+    {
+        "client_id": 437,
+        "ville": "Rabat",
+        "revenue": 20038,
+        "apartments": 2
+    },
+    {
+        "client_id": 438,
+        "ville": "Casablanca",
+        "revenue": 34341,
+        "apartments": 2
+    },
+    {
+        "client_id": 439,
+        "ville": "Casablanca",
+        "revenue": 10753,
+        "apartments": 3
+    },
+    {
+        "client_id": 440,
+        "ville": "Casablanca",
+        "revenue": 46225,
+        "apartments": 2
+    },
+    {
+        "client_id": 441,
+        "ville": "Marrakech",
+        "revenue": 18001,
+        "apartments": 2
+    },
+    {
+        "client_id": 442,
+        "ville": "Casablanca",
+        "revenue": 39826,
+        "apartments": 1
+    },
+    {
+        "client_id": 443,
+        "ville": "Casablanca",
+        "revenue": 32641,
+        "apartments": 3
+    },
+    {
+        "client_id": 444,
+        "ville": "Marrakech",
+        "revenue": 14625,
+        "apartments": 2
+    },
+    {
+        "client_id": 445,
+        "ville": "Marrakech",
+        "revenue": 25244,
+        "apartments": 3
+    },
+    {
+        "client_id": 446,
+        "ville": "Rabat",
+        "revenue": 14888,
+        "apartments": 1
+    },
+    {
+        "client_id": 447,
+        "ville": "Rabat",
+        "revenue": 40871,
+        "apartments": 1
+    },
+    {
+        "client_id": 448,
+        "ville": "Casablanca",
+        "revenue": 25002,
+        "apartments": 1
+    },
+    {
+        "client_id": 449,
+        "ville": "Rabat",
+        "revenue": 36728,
+        "apartments": 1
+    },
+    {
+        "client_id": 450,
+        "ville": "Casablanca",
+        "revenue": 15282,
+        "apartments": 3
+    },
+    {
+        "client_id": 451,
+        "ville": "Casablanca",
+        "revenue": 45115,
+        "apartments": 2
+    },
+    {
+        "client_id": 452,
+        "ville": "Marrakech",
+        "revenue": 46444,
+        "apartments": 2
+    },
+    {
+        "client_id": 453,
+        "ville": "Rabat",
+        "revenue": 35486,
+        "apartments": 2
+    },
+    {
+        "client_id": 454,
+        "ville": "Marrakech",
+        "revenue": 14731,
+        "apartments": 1
+    },
+    {
+        "client_id": 455,
+        "ville": "Casablanca",
+        "revenue": 13629,
+        "apartments": 2
+    },
+    {
+        "client_id": 456,
+        "ville": "Rabat",
+        "revenue": 46984,
+        "apartments": 3
+    },
+    {
+        "client_id": 457,
+        "ville": "Casablanca",
+        "revenue": 20937,
+        "apartments": 1
+    },
+    {
+        "client_id": 458,
+        "ville": "Marrakech",
+        "revenue": 48417,
+        "apartments": 3
+    },
+    {
+        "client_id": 459,
+        "ville": "Marrakech",
+        "revenue": 18094,
+        "apartments": 3
+    },
+    {
+        "client_id": 460,
+        "ville": "Casablanca",
+        "revenue": 20912,
+        "apartments": 1
+    },
+    {
+        "client_id": 461,
+        "ville": "Casablanca",
+        "revenue": 42112,
+        "apartments": 3
+    },
+    {
+        "client_id": 462,
+        "ville": "Rabat",
+        "revenue": 12660,
+        "apartments": 1
+    },
+    {
+        "client_id": 463,
+        "ville": "Marrakech",
+        "revenue": 32649,
+        "apartments": 3
+    },
+    {
+        "client_id": 464,
+        "ville": "Casablanca",
+        "revenue": 33315,
+        "apartments": 3
+    },
+    {
+        "client_id": 465,
+        "ville": "Rabat",
+        "revenue": 19205,
+        "apartments": 2
+    },
+    {
+        "client_id": 466,
+        "ville": "Rabat",
+        "revenue": 17193,
+        "apartments": 3
+    },
+    {
+        "client_id": 467,
+        "ville": "Marrakech",
+        "revenue": 37001,
+        "apartments": 3
+    },
+    {
+        "client_id": 468,
+        "ville": "Rabat",
+        "revenue": 41615,
+        "apartments": 1
+    },
+    {
+        "client_id": 469,
+        "ville": "Marrakech",
+        "revenue": 22157,
+        "apartments": 3
+    },
+    {
+        "client_id": 470,
+        "ville": "Rabat",
+        "revenue": 29442,
+        "apartments": 2
+    },
+    {
+        "client_id": 471,
+        "ville": "Rabat",
+        "revenue": 39510,
+        "apartments": 4
+    },
+    {
+        "client_id": 472,
+        "ville": "Rabat",
+        "revenue": 31916,
+        "apartments": 2
+    },
+    {
+        "client_id": 473,
+        "ville": "Marrakech",
+        "revenue": 27330,
+        "apartments": 3
+    },
+    {
+        "client_id": 474,
+        "ville": "Casablanca",
+        "revenue": 13587,
+        "apartments": 1
+    },
+    {
+        "client_id": 475,
+        "ville": "Marrakech",
+        "revenue": 24735,
+        "apartments": 1
+    },
+    {
+        "client_id": 476,
+        "ville": "Marrakech",
+        "revenue": 24674,
+        "apartments": 3
+    },
+    {
+        "client_id": 477,
+        "ville": "Rabat",
+        "revenue": 21601,
+        "apartments": 3
+    },
+    {
+        "client_id": 478,
+        "ville": "Rabat",
+        "revenue": 23022,
+        "apartments": 3
+    },
+    {
+        "client_id": 479,
+        "ville": "Casablanca",
+        "revenue": 49628,
+        "apartments": 1
+    },
+    {
+        "client_id": 480,
+        "ville": "Marrakech",
+        "revenue": 26068,
+        "apartments": 3
+    },
+    {
+        "client_id": 481,
+        "ville": "Rabat",
+        "revenue": 30283,
+        "apartments": 2
+    },
+    {
+        "client_id": 482,
+        "ville": "Marrakech",
+        "revenue": 28135,
+        "apartments": 2
+    },
+    {
+        "client_id": 483,
+        "ville": "Rabat",
+        "revenue": 39592,
+        "apartments": 1
+    },
+    {
+        "client_id": 484,
+        "ville": "Casablanca",
+        "revenue": 17351,
+        "apartments": 3
+    },
+    {
+        "client_id": 485,
+        "ville": "Marrakech",
+        "revenue": 43365,
+        "apartments": 3
+    },
+    {
+        "client_id": 486,
+        "ville": "Rabat",
+        "revenue": 40964,
+        "apartments": 2
+    },
+    {
+        "client_id": 487,
+        "ville": "Casablanca",
+        "revenue": 16367,
+        "apartments": 2
+    },
+    {
+        "client_id": 488,
+        "ville": "Marrakech",
+        "revenue": 44417,
+        "apartments": 2
+    },
+    {
+        "client_id": 489,
+        "ville": "Marrakech",
+        "revenue": 24488,
+        "apartments": 1
+    },
+    {
+        "client_id": 490,
+        "ville": "Casablanca",
+        "revenue": 24494,
+        "apartments": 2
+    },
+    {
+        "client_id": 491,
+        "ville": "Casablanca",
+        "revenue": 11364,
+        "apartments": 3
+    },
+    {
+        "client_id": 492,
+        "ville": "Casablanca",
+        "revenue": 29602,
+        "apartments": 2
+    },
+    {
+        "client_id": 493,
+        "ville": "Marrakech",
+        "revenue": 31268,
+        "apartments": 3
+    },
+    {
+        "client_id": 494,
+        "ville": "Marrakech",
+        "revenue": 42741,
+        "apartments": 1
+    },
+    {
+        "client_id": 495,
+        "ville": "Marrakech",
+        "revenue": 10626,
+        "apartments": 3
+    },
+    {
+        "client_id": 496,
+        "ville": "Marrakech",
+        "revenue": 21046,
+        "apartments": 2
+    },
+    {
+        "client_id": 497,
+        "ville": "Casablanca",
+        "revenue": 31327,
+        "apartments": 1
+    },
+    {
+        "client_id": 498,
+        "ville": "Rabat",
+        "revenue": 33473,
+        "apartments": 1
+    },
+    {
+        "client_id": 499,
+        "ville": "Casablanca",
+        "revenue": 35591,
+        "apartments": 2
+    }
+]

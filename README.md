@@ -1,7 +1,7 @@
 # Data Processing using pyspark 
 ## Data Analysis via MySQL and JSON
+## Part I - Processing data from a MySQL Database
 
-![Project Logo](Screenes/0.png)
 
 ![Project Logo](Screenes/1.png)
 
@@ -23,6 +23,13 @@
 ![Project Logo](Screenes/12.png)
 ![Project Logo](Screenes/13.png)
 ![Project Logo](Screenes/14.png)
+
+## Part II -  Processing data from a JSON file
+![Project Logo](Screenes/19.png)
+![Project Logo](Screenes/15.png)
+![Project Logo](Screenes/16.png)
+![Project Logo](Screenes/17.png)
+![Project Logo](Screenes/18.png)
 
 
 
