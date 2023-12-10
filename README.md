@@ -1,6 +1,7 @@
 # Data Processing using pyspark 
 ## Data Analysis via MySQL and JSON
-1) Part I - Processing data from a MySQL Database
+ Spark for parallel and distributed data processing. Data resides in both a relational MySQL database and JSON files. The goal is to utilize Spark SQL via DataFrame and Dataset APIs to extract actionable insights.
+### Part I - Processing data from a MySQL Database
 
 
 ![Project Logo](Screenes/1.png)
@@ -24,7 +25,7 @@
 ![Project Logo](Screenes/13.png)
 ![Project Logo](Screenes/14.png)
 
-2) Part II -  Processing data from a JSON file
+### Part II -  Processing data from a JSON file
 ![Project Logo](Screenes/19.png)
 ![Project Logo](Screenes/15.png)
 ![Project Logo](Screenes/16.png)
